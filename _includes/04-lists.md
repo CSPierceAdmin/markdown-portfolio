@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Here is the lsit of my favorite things
+- walks on the beach
+- reading
+- teaching
+- learning new
