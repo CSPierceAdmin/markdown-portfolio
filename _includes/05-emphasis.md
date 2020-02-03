@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# SKills
+Below is the _list_ of **thing**
+## Programming Languages
+- C
+- C++
+
+## eLearning
+-myitlab
+-blackboard
+-moodle
